@@ -9,6 +9,6 @@ All those who are collaborating in this project are requested to pull this repo 
    This file is supposed to contains the code for logging into webmail using selenium and then extract all the unread mails and store their sender's name, subject and body  
     seperately and then logs out of webmail.      
     
-    Till now, a major portion of this code is completed, a basic body string along with name and subject is obtained on running the code.
+   Till now, a major portion of this code is completed, a basic body string along with name and subject is obtained on running the code.
     
    
